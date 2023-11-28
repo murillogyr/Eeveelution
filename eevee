@@ -1,0 +1,27 @@
+eevee = input('digite uma eeveelution: ')
+
+vaporeon = 'vaporeon'
+jolteon = 'jolteon'
+flareon = 'flareon'
+espeon = 'espeon'
+umbreon = 'umbreon'
+glaceon = 'glaceon'
+leafeon = 'leafeon'
+sylveon = 'sylveon' 
+
+if eevee == vaporeon:
+ print('é um pokemon tipo água')
+elif eevee == jolteon:
+  print('é um pokemon tipo elétrico')
+elif eevee == flareon:
+  print('é um pokemon tipo fogo')
+elif eevee == espeon:
+  print('é um pokemon tipo psíquico')
+elif eevee == umbreon:
+  print('é um pokemon tipo sombrio')
+elif eevee == glaceon:
+  print('é um pokemon tipo gelo')
+elif eevee == leafeon:
+  print('é um pokemon tipo planta')
+elif eevee == sylveon:
+  print('é um pokemon tipo fada')
